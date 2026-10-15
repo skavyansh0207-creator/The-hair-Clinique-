@@ -1,0 +1,8 @@
+{
+  "name": "The Hair Clinique",
+  "description": "The Hair Clinique - Premium Unisex Salon & Aesthetic Studio in SCO 74, Sector 40 C, Chandigarh. Keratin treatments, bridal studio, luxury men's grooming, nails, lashes & advanced skin care. Rated 4.8★ (788+ Google reviews).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
